@@ -1,0 +1,28 @@
+name: diginlab
+favicon: null
+layout_spectrum: 0.047039792174473405
+typography_spectrum: 0.5305871074087918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2761081946082413
+  lightness: 0.4655492617748678
+  saturation: 0.9927248244639486
+  rhythmicContrast: 0.13081437605433166
+purpose: []
