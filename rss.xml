@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[diginlab]]></title>
         <description><![CDATA[diginlab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/diginlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 07:43:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Dec 2015 07:47:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diginlab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digitale Transformation]]></title>
+            <description><![CDATA[<h1>Digitale Transformation</h1>]]></description>
+            <link>https://thegrid.ai/diginlab/digitale-transformation/index.html</link>
+            <guid isPermaLink="false">fbff4671-df4c-4649-9046-d70aaffe66eb</guid>
+            <pubDate>Mon, 07 Dec 2015 07:46:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digitale Transformation - Innovation - Revolution - Digital Innovation Lab AG]]></title>
             <description><![CDATA[<article><h1>Digitale Transformation - Innovation - Revolution - Digital Innovation Lab AG</h1><p>Als digitale Pioniere und Technikenthusiasten brennen wir dafür, Unternehmen bei der digitalen Transformation zu unterstützen und zu beraten. Im Digital Innovation Lab Blog zeigen wir Ihnen, wie Sie Ihr Unternehmen erfolgreich im digitalen Wandel positionieren, ohne dabei wertvolle Zeit und Geld zu verschleudern und die erreichten Erfolge nicht zu gefährden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8298467266bb61a6916ae0f70095c312d583455.png"></article>]]></description>
