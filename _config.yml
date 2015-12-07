@@ -1,7 +1,7 @@
 name: diginlab
 favicon: null
-layout_spectrum: 0.0997
-typography_spectrum: 0.20624
+layout_spectrum: 1
+typography_spectrum: 0.25267
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#1f0445'
     - '#199fcc'
     - '#f09425'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.75
-  rhythmicContrast: 0.25
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
